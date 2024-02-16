@@ -1,6 +1,6 @@
-# projet.pending
-* ``: 
-* ``: 
+# Projet Pending
+* `Unity`: Open world game with c#
+* `Website `: Management accounts and his password with php,html and css
 * ``: 
 * ``: 
 * ``: 
@@ -10,9 +10,7 @@
 
 ## Projet On Going
 
-* `Website `: Management accounts and his password with php,html and css
 * `Discord`: Discord server bot js and json
-* `Unity`: Open world game with c#
 * ``: 
 * ``: 
 * ``: 
